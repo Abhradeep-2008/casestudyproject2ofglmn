@@ -1,0 +1,36 @@
+.text_images_and_results{
+    text-align: center;
+    width: 700px;
+    background-color:ghostwhite;
+    color: red;
+    border: 3px solid blue;
+    border-radius: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 100px;
+}
+
+img {
+    width: 280px;
+    margin-left: 200px;
+    border: 3px solid lime;    
+}
+
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.heading{
+    background-color: white;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+
+.observation{
+    background-color: rosybrown;
+    color: darkred;
+    border: brown 2px solid ;
+    border-radius: 20px;
+}
